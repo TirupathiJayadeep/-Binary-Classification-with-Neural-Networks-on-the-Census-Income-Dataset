@@ -165,7 +165,7 @@ optimizer.step()
 
 Optionally print training loss every few epochs for monitoring.
 
-Step 9: Evaluation on Test Set
+### Step 9: Evaluation on Test Set
 
 Set model to evaluation mode: model.eval().
 
