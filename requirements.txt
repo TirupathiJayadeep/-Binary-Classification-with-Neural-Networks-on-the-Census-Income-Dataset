@@ -1,0 +1,13 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+
+# PyTorch 
+torch==2.3.0
+torchvision
+torchaudio
+
+# Jupyter Notebook Environment
+jupyter==1.0.0
+notebook==7.1.2
